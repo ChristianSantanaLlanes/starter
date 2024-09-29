@@ -5,3 +5,5 @@
 ### Holaaaaaaa
 
 Probando
+
+![favicon.ico](/favicon.ico)
